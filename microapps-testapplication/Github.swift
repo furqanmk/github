@@ -79,7 +79,7 @@ class Github {
                 return
             }
             
-            print("Error: \(error?.localizedDescription)", true)
+            
             
         }).resume()
     }
@@ -160,7 +160,7 @@ class Repository {
                             contributors.append(Contributor(username: username, image: image!, contributions: contributions))
                             
                         }
-                        if array.count > count { completion(Array(self.contributors[0..<count])) }
+                        if contributors.count > count { completion(Array(contributors[0...2])) }
                         else { completion(self.contributors) }
                         
                     } else {  }

@@ -11,6 +11,16 @@
 		D1EC3F191C2D906C00E70E49 /* RepositoriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EC3F181C2D906C00E70E49 /* RepositoriesViewController.swift */; };
 		D1EC3F1B1C2DA4AF00E70E49 /* RepositoriesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EC3F1A1C2DA4AF00E70E49 /* RepositoriesTableViewCell.swift */; };
 		D1EC3F1D1C2DB3BD00E70E49 /* RepositoryDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EC3F1C1C2DB3BD00E70E49 /* RepositoryDetailViewController.swift */; };
+		D1F2C2B01C30330D00EC47C9 /* TimingFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F2C2A41C30330D00EC47C9 /* TimingFunction.swift */; };
+		D1F2C2B11C30330D00EC47C9 /* RotatingCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F2C2A61C30330D00EC47C9 /* RotatingCircle.swift */; };
+		D1F2C2B21C30330D00EC47C9 /* SpininngDot.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F2C2A71C30330D00EC47C9 /* SpininngDot.swift */; };
+		D1F2C2B31C30330D00EC47C9 /* LineScale.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F2C2A81C30330D00EC47C9 /* LineScale.swift */; };
+		D1F2C2B41C30330D00EC47C9 /* DotTrianglePath.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F2C2A91C30330D00EC47C9 /* DotTrianglePath.swift */; };
+		D1F2C2B51C30330D00EC47C9 /* DotSpinningLikeSkype.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F2C2AA1C30330D00EC47C9 /* DotSpinningLikeSkype.swift */; };
+		D1F2C2B61C30330D00EC47C9 /* FunnyDotsA.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F2C2AB1C30330D00EC47C9 /* FunnyDotsA.swift */; };
+		D1F2C2B71C30330D00EC47C9 /* RPLoadingAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F2C2AD1C30330D00EC47C9 /* RPLoadingAnimationView.swift */; };
+		D1F2C2B81C30330E00EC47C9 /* RPLoadingAnimationDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F2C2AE1C30330D00EC47C9 /* RPLoadingAnimationDelegate.swift */; };
+		D1F54DAC1C2F0BF8008BB72D /* IssueTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F54DAB1C2F0BF7008BB72D /* IssueTableViewCell.swift */; };
 		D1FB87791C299F2D00816EC2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1FB87781C299F2D00816EC2 /* AppDelegate.swift */; };
 		D1FB877B1C299F2D00816EC2 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1FB877A1C299F2D00816EC2 /* SearchViewController.swift */; };
 		D1FB877E1C299F2D00816EC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1FB877C1C299F2D00816EC2 /* Main.storyboard */; };
@@ -36,6 +46,16 @@
 		D1EC3F181C2D906C00E70E49 /* RepositoriesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepositoriesViewController.swift; sourceTree = "<group>"; };
 		D1EC3F1A1C2DA4AF00E70E49 /* RepositoriesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepositoriesTableViewCell.swift; sourceTree = "<group>"; };
 		D1EC3F1C1C2DB3BD00E70E49 /* RepositoryDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepositoryDetailViewController.swift; sourceTree = "<group>"; };
+		D1F2C2A41C30330D00EC47C9 /* TimingFunction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimingFunction.swift; sourceTree = "<group>"; };
+		D1F2C2A61C30330D00EC47C9 /* RotatingCircle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RotatingCircle.swift; sourceTree = "<group>"; };
+		D1F2C2A71C30330D00EC47C9 /* SpininngDot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpininngDot.swift; sourceTree = "<group>"; };
+		D1F2C2A81C30330D00EC47C9 /* LineScale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LineScale.swift; sourceTree = "<group>"; };
+		D1F2C2A91C30330D00EC47C9 /* DotTrianglePath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DotTrianglePath.swift; sourceTree = "<group>"; };
+		D1F2C2AA1C30330D00EC47C9 /* DotSpinningLikeSkype.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DotSpinningLikeSkype.swift; sourceTree = "<group>"; };
+		D1F2C2AB1C30330D00EC47C9 /* FunnyDotsA.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FunnyDotsA.swift; sourceTree = "<group>"; };
+		D1F2C2AD1C30330D00EC47C9 /* RPLoadingAnimationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RPLoadingAnimationView.swift; sourceTree = "<group>"; };
+		D1F2C2AE1C30330D00EC47C9 /* RPLoadingAnimationDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RPLoadingAnimationDelegate.swift; sourceTree = "<group>"; };
+		D1F54DAB1C2F0BF7008BB72D /* IssueTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueTableViewCell.swift; sourceTree = "<group>"; };
 		D1FB87751C299F2C00816EC2 /* microapps-testapplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "microapps-testapplication.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1FB87781C299F2D00816EC2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D1FB877A1C299F2D00816EC2 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
@@ -127,9 +147,43 @@
 			isa = PBXGroup;
 			children = (
 				D1EC3F1A1C2DA4AF00E70E49 /* RepositoriesTableViewCell.swift */,
+				D1F54DAB1C2F0BF7008BB72D /* IssueTableViewCell.swift */,
 			);
 			name = "Table View Cells";
 			sourceTree = "<group>";
+		};
+		D1F2C2A51C30330D00EC47C9 /* TimingFunction */ = {
+			isa = PBXGroup;
+			children = (
+				D1F2C2A41C30330D00EC47C9 /* TimingFunction.swift */,
+			);
+			name = TimingFunction;
+			sourceTree = "<group>";
+		};
+		D1F2C2AC1C30330D00EC47C9 /* animations */ = {
+			isa = PBXGroup;
+			children = (
+				D1F2C2A61C30330D00EC47C9 /* RotatingCircle.swift */,
+				D1F2C2A71C30330D00EC47C9 /* SpininngDot.swift */,
+				D1F2C2A81C30330D00EC47C9 /* LineScale.swift */,
+				D1F2C2A91C30330D00EC47C9 /* DotTrianglePath.swift */,
+				D1F2C2AA1C30330D00EC47C9 /* DotSpinningLikeSkype.swift */,
+				D1F2C2AB1C30330D00EC47C9 /* FunnyDotsA.swift */,
+			);
+			name = animations;
+			sourceTree = "<group>";
+		};
+		D1F2C2AF1C30330D00EC47C9 /* LodingAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				D1F2C2A51C30330D00EC47C9 /* TimingFunction */,
+				D1F2C2AC1C30330D00EC47C9 /* animations */,
+				D1F2C2AD1C30330D00EC47C9 /* RPLoadingAnimationView.swift */,
+				D1F2C2AE1C30330D00EC47C9 /* RPLoadingAnimationDelegate.swift */,
+			);
+			name = LodingAnimation;
+			path = "/Users/furqan/Downloads/RPLoadingAnimation-master/RPLoadingAnimation";
+			sourceTree = "<absolute>";
 		};
 		D1FB876C1C299F2B00816EC2 = {
 			isa = PBXGroup;
@@ -158,6 +212,7 @@
 				D1EC3F221C2DB50600E70E49 /* Table View Cells */,
 				D1EC3F1F1C2DB44500E70E49 /* Model */,
 				D1EC3F1E1C2DB42800E70E49 /* View Controllers */,
+				D1F2C2AF1C30330D00EC47C9 /* LodingAnimation */,
 				D1EC3F211C2DB46400E70E49 /* Supporting Files */,
 			);
 			path = "microapps-testapplication";
@@ -324,12 +379,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1F2C2B61C30330D00EC47C9 /* FunnyDotsA.swift in Sources */,
 				D1EC3F1B1C2DA4AF00E70E49 /* RepositoriesTableViewCell.swift in Sources */,
+				D1F2C2B11C30330D00EC47C9 /* RotatingCircle.swift in Sources */,
 				D1EC3F191C2D906C00E70E49 /* RepositoriesViewController.swift in Sources */,
+				D1F2C2B31C30330D00EC47C9 /* LineScale.swift in Sources */,
+				D1F2C2B21C30330D00EC47C9 /* SpininngDot.swift in Sources */,
 				D1FB87991C299F6900816EC2 /* Github.swift in Sources */,
+				D1F2C2B41C30330D00EC47C9 /* DotTrianglePath.swift in Sources */,
 				D1FB877B1C299F2D00816EC2 /* SearchViewController.swift in Sources */,
+				D1F2C2B71C30330D00EC47C9 /* RPLoadingAnimationView.swift in Sources */,
 				D1EC3F1D1C2DB3BD00E70E49 /* RepositoryDetailViewController.swift in Sources */,
+				D1F2C2B01C30330D00EC47C9 /* TimingFunction.swift in Sources */,
+				D1F2C2B81C30330E00EC47C9 /* RPLoadingAnimationDelegate.swift in Sources */,
 				D1FB87791C299F2D00816EC2 /* AppDelegate.swift in Sources */,
+				D1F2C2B51C30330D00EC47C9 /* DotSpinningLikeSkype.swift in Sources */,
+				D1F54DAC1C2F0BF8008BB72D /* IssueTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2C907E267FBEF1DFC44CBE38F976BBA8615D9A10",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2C907E267FBEF1DFC44CBE38F976BBA8615D9A10" : 0,
+    "4A6EEA9C5988092F79273F9D23DA1AE5DA5775F7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C950A190-5DE0-4008-B250-FADF6A346A91",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2C907E267FBEF1DFC44CBE38F976BBA8615D9A10" : "microapps-testapplication\/",
+    "4A6EEA9C5988092F79273F9D23DA1AE5DA5775F7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "microapps-testapplication",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "microapps-testapplication.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/furqanmk\/github.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C907E267FBEF1DFC44CBE38F976BBA8615D9A10"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/mrazam110\/bikers-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4A6EEA9C5988092F79273F9D23DA1AE5DA5775F7"
+    }
+  ]
+}
